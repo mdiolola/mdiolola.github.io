@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Thank you for visiting me.
 ---
 
 My name is Mond Diolola. I have the following qualities:
